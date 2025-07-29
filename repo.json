@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "Kirin",
+    "Name": "Truth or Dare",
+    "InternalName": "Truth or Dare",
+    "AssemblyVersion": "1.8.0.0",
+    "Description": "Run ToD, Brain off!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/kirin-xiv/FFToD-Release",
+    "Tags": [ "ToD", "TruthorDare", "dice games" ],
+    "Punchline": "Easy raffles",
+    "Changelog": "- Anotha one. \n- Love, Kiri",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/nilah-xiv/Raffler-VIP/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/nilah-xiv/Raffler-VIP/main/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/nilah-xiv/Raffler-VIP/main/icon.ico",
+    "ImageUrls": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IsTestingPlugin": false
+  }
+]
