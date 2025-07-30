@@ -1,7 +1,7 @@
 {
   "Author": "Kirin",
   "Name": "Truth or Dare Plugin",
-  "InternalName": "TruthOrDarePlugin",
+  "InternalName": "Truth Or Dare",
   "AssemblyVersion": "1.0.0.0",
   "Description": "A comprehensive plugin that automates Truth or Dare games in FFXIV. Features include automatic roll parsing from chat, smart winner selection (skipping repeat winners), strip detection for low rolls, configurable timeouts, and automatic result posting. Eliminates the need for manual chat copying and external scripts.",
   "ApplicableVersion": "any",
